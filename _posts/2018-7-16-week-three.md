@@ -4,6 +4,7 @@ We are starting to get close to the point in this project where we begin bringin
 
 ## Selected Results
 [Thom's source detection code:] (https://github.com/GosnellResearchGroupSummer2018/NGC6819/blob/master/photometry%20codes/aperture_photometry.py)   
+
 Outputs:  
 ![sources]({{ https://gosnellresearchgroupsummer2018.github.io }}/images/sources.png)
 ![sources_2]({{ https://gosnellresearchgroupsummer2018.github.io }}/images/sources_2.png)
@@ -12,6 +13,7 @@ Outputs:
 Rory's Codes:  
 - [Background Detection](https://github.com/GosnellResearchGroupSummer2018/NGC6819/blob/master/Rory's%20Codes/sambd.py)   
 - [Source Detection](https://github.com/GosnellResearchGroupSummer2018/NGC6819/blob/master/Rory's%20Codes/samsd.py)   
+
 Outputs:    
 ![sourcefigf4t200v10]({{ https://gosnellresearchgroupsummer2018.github.io }}/images/sourcefigf4t200v10.png)
 
